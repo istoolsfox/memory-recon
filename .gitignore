@@ -3,3 +3,4 @@ __pycache__/
 report.md
 candidates.json
 .DS_Store
+dist/
